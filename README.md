@@ -1,4 +1,4 @@
-<h1 align="left">Olaa, I'm Benedict Peralta👋</h1>
+<h1 align="left">Olaa, I'm Benedict Evangelio Peralta👋</h1>
 
 ###
 
@@ -19,6 +19,7 @@
 ###
 
 <p align="left">I build software solutions</p>
+<p align="left">I am happy 🌱</p>
 
 ###
 
